@@ -236,7 +236,6 @@ endfor
 - https://github.com/ray-x/lsp_signature.nvim
 - https://github.com/rafamadriz/friendly-snippets
 - reject coc, use nvim lsp??
-- https://github.com/numToStr/FTerm.nvim
 - https://github.com/matbme/JABS.nvim
 - https://github.com/kdheepak/tabline.nvim
 - https://github.com/romgrk/barbar.nvim
@@ -282,7 +281,6 @@ https://github.com/p00f/nvim-ts-rainbow
 - https://reddit.com/r/vim/comments/g4l5p0/good_plugin_to_navigate_buffers/
 - https://www.reddit.com/r/vim/comments/230u1r/what_are_your_favorite_tab_and_buffer_plugins/
 - https://vimawesome.com/
-- https://github.com/voldikss/vim-floaterm
 - chsh -s $(which zsh) in install.sh
 - Comment everything in zshrcexport XDG_CONFIG_HOME="$HOME/.config"
 - Source files from array in zsh also
