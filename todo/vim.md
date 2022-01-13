@@ -1,0 +1,10 @@
+-   Executing Shell commands from Vim - Vim Tips (1)- https://m.youtube.com/watch?v=dVIP72Uwt2A
+-   Setup Neovim like an IDE- https://m.youtube.com/watch?v=65Wq4fjREUU
+-   My Favorite Vim Tricks- https://m.youtube.com/watch?v=B-EPvfxcgl0
+-   Switching to Neovim & Rebuilding my Configuration- https://m.youtube.com/watch?v=Kx-SDJwL01o
+-   Different ways to start Vim to enhance your workflow - Vim Tips (4)- https://m.youtube.com/watch?v=FFeJsOG7va0
+-   libgen - https://www.amazon.com/dp/059652983X/ref=cm_sw_su_dp
+-   Essential Settings for Neovim- https://m.youtube.com/watch?v=gZCXaF-Lmco
+-   vim emmet and snippets
+-   An example on how I use vim to make my workflow faster.- https://youtu.be/WNk8-o6NTZs
+-   Here Are Some Basic Vim Settings That I Can't Live Without- https://youtu.be/FWUeqcBQmDo
